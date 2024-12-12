@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @cestercian
+- 👀 I’m interested in web development, AI/ML, and programming challenges.
+- 🌱 I’m currently learning React, Swift, and expanding my skills in Python for AI.
+- 💞️ I’m looking to collaborate on open-source web development projects or AI/ML research.
+- 📫 How to reach me: You can reach me via email at [yashafaid@gmail.com] or connect with me on LinkedIn.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving algorithmic challenges and experimenting with new programming languages.
