@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Yashaswi 👋
 
 ## 💫 About Me:
 - 🔭 I’m currently working on building my skills in development technologies like JavaScript, React, and more.
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love journaling and exploring new ideas.
 
 ## 🌐 Socials:
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/cestercian/))
+- [LinkedIn](https://www.linkedin.com/in/cestercian/)
 
 
 ## 💻 Tech Stack:
