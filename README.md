@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @cestercian
-- 👀 I’m interested in web development, AI/ML, and programming challenges.
-- 🌱 I’m currently learning React, Swift, and expanding my skills in Python for AI.
-- 💞️ I’m looking to collaborate on open-source web development projects or AI/ML research.
-- 📫 How to reach me: You can reach me via email at [yashafaid@gmail.com] or connect with me on LinkedIn.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving algorithmic challenges and experimenting with new programming languages.
+# Hi there! I'm [Your Name] 👋
+
+## 💫 About Me:
+- 🔭 I’m currently working on building my skills in development technologies like JavaScript, React, and more.
+- 🤔 Looking for opportunities in Web Development.
+- 📫 How to reach me: cestercian@example.com
+- 💪🏼 Future Goals: Learn more technologies and never stop creating new ideas.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love journaling and exploring new ideas.
+
+## 🌐 Socials:
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/cestercian/))
+
+
+## 💻 Tech Stack:
+- JavaScript | Node.js | React | TypeScript | HTML5 | CSS3 | Express.js | TailwindCSS | MongoDB
+
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cestercian&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
