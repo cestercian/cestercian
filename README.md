@@ -8,9 +8,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love journaling and exploring new ideas.
 
-## 🌐 Socials:
-- [LinkedIn](https://www.linkedin.com/in/cestercian/)
-
 
 ## 💻 Tech Stack:
 - JavaScript | Node.js | React | TypeScript | HTML5 | CSS3 | Express.js | TailwindCSS |
