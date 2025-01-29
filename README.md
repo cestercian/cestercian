@@ -10,4 +10,4 @@
 
 
 ## 💻 Tech Stack:
-- JavaScript | Node.js | React | TypeScript | HTML5 | CSS3 | Express.js | TailwindCSS |
+- JavaScript | Node.js | React-19 | TypeScript | HTML5 | CSS3 | Express.js | TailwindCSS |
