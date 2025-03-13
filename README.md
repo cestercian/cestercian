@@ -5,7 +5,7 @@
 - 🤔 Looking for opportunities in Web Development.
 - 📫 How to reach me: cestercian@example.com
 - 💪🏼 Future Goals: Learn more technologies and never stop creating new ideas.
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: HE/him
 - ⚡ Fun fact: I love journaling and exploring new ideas.
 
 
