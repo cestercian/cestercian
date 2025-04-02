@@ -3,7 +3,7 @@
 ## 💫 About Me:
 - 🔭 I’m currently working on building my skills in development technologies like JavaScript, React, and more.
 - 🤔 Looking for opportunities in Web Development.
-- 📫 How to reach me: cestercian@example.com
+- 📫 How to reach me: yashafaid@gmail.com
 - 💪🏼 Future Goals: Learn more technologies and never stop creating new ideas.
 - 😄 Pronouns: HE/him
 - ⚡ Fun fact: I love journaling and exploring new ideas.
