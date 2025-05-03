@@ -5,7 +5,7 @@
 - 🤔 Looking for opportunities in Web Development.
 - 📫 How to reach me: yashafaid@gmail.com
 - 💪🏼 Future Goals: Learn more technologies and never stop creating new ideas.
-- 😄 Pronouns: HE/him
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I love journaling and exploring new ideas.
 
 
