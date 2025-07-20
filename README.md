@@ -1,13 +1,12 @@
 # Hi there! I'm Yashaswi
 
 ## 💫 About Me
-- 🔭 I’m currently focused on building my skills in modern web development technologies like JavaScript, React, and beyond.  
-- 🌱 Always eager to learn and explore new tools and frameworks.  
-- 👀 Actively looking for opportunities in **Web Development**.  
-- 📫 Reach me at: [yashafaid@gmail.com](mailto:yashafaid@gmail.com)  
-- 💡 Future Goals: Keep learning, keep building, and turn ideas into reality.  
-- 😄 Pronouns: He/Him  
-- 📝 Fun Fact: I enjoy journaling and brainstorming innovative ideas.
+-  I’m currently focused on building my skills in modern web development technologies like JavaScript, React, and beyond.  
+-  Always eager to learn and explore new tools and frameworks.   
+-  Reach me at: [yashafaid@gmail.com](mailto:yashafaid@gmail.com)  
+-  Future Goals: Keep learning, keep building, and turn ideas into reality.  
+-  Pronouns: He/Him  
+-  Fun Fact: I enjoy journaling and brainstorming innovative ideas.
 
 ---
 
@@ -26,10 +25,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cestercian&show_icons=true&theme=github_dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cestercian&layout=compact&theme=github_dark" height="180" />
-</p>
+<div style="display:inline-block;">
+  <img alt="Cestercian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cestercian&show_icons=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117&hide_title=true&disable_animations=true&number_format=long&show=reviews&include_all_commits=true&hide=contribs,issues" />
+  <img alt="Ahmet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cestercian&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</div>
 
 
 ---
