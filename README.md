@@ -1,6 +1,6 @@
 # Hi there! I'm Yashaswi
 
-## 💫 About Me
+## About Me
 -  I’m currently focused on building my skills in modern web development technologies like JavaScript, React, and beyond.  
 -  Always eager to learn and explore new tools and frameworks.   
 -  Reach me at: [yashafaid@gmail.com](mailto:yashafaid@gmail.com)  
